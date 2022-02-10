@@ -13,7 +13,7 @@ I learned about:
 ### Features
 
 - [x] Home
-- [ ] Products page
+- [x] Products page
 - [ ] Contact page
 
 #### Technologies
