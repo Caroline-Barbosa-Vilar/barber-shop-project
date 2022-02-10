@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&display=swap');
+
+body {
+  background: #fdfcdc;
+}
+.about {
+  padding: 20px;
+}
+.banner {
+  width: 100%;
+}
+.title {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  font-weight: 700;
+  margin: 18px 0;
+  font-size: 20px;
+  color: #003566;
+}
+.about p {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  font-size: 15px;
+}
+.benefits {
+  padding: 20px;
+}
+.benefits ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.benefits ul li {
+  font-family: 'Cinzel', serif;
+  font-size: 14px;
+  margin-left: 30px;
+}
+.benefits-image {
+  width: 50%;
+}
+
+/* começando o menu ultima parte 4 */
