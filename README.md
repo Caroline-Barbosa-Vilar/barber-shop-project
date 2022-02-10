@@ -1,0 +1,20 @@
+# The Barber's Shop Project
+
+This is my first project (my first contact with web development) created during my first frontend course of "HTML5 e CSS3" at Alura's plataform. 
+In this classes I learned the basics of HTML5 and CSS3 and their properties, atributes, different uses and how to create a simple website.
+
+## Learning
+
+I learned about the cascade structure and it's importance,about using tags semantically.
+
+### Features
+
+- [x] Home
+- [ ] Products page
+- [ ] Contact page
+
+#### Technologies
+
+- HTML5
+- CSS3
+
