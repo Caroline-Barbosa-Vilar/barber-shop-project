@@ -5,7 +5,10 @@ In this classes I learned the basics of HTML5 and CSS3 and their properties, atr
 
 ## Learning
 
-I learned about the cascade structure and it's importance,about using tags semantically.
+I learned about:
+- The cascade structure and it's importance;
+- Using tags semantically;
+- Responsive layout;
 
 ### Features
 
