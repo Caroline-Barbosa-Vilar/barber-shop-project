@@ -7,12 +7,13 @@
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
 }
-
+body {
+  background: #fdfcdc;
+}
 a {
   text-decoration: none;
   color: #000000;
 }
-
 ul {
   list-style: none;
 }
