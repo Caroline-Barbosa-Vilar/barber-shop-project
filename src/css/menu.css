@@ -13,7 +13,7 @@
   font-family: 'Cinzel', serif;
   font-weight: 900;
   font-size: 60px;
-  color: #f2cc8f;
+  color: #d19500;
 }
 .nav {
   position: absolute;
@@ -25,9 +25,14 @@
 }
 .nav ul li a{
   text-transform: uppercase;
-  color: #f2cc8f;
+  color: #d19500;
   font-family: 'Cinzel', serif;
   font-weight: 700;
   font-size: 18px;
   padding: 0 20px;
+}
+nav ul li a:hover {
+  color: #fcf8ed;
+  text-decoration: underline;
+  cursor: pointer;
 }

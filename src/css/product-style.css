@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&display=swap');
+
+.products {
+  width: 940px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.products li {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  border: 3px solid #d19500;
+  border-radius: 8px 20px 8px 20px;
+}
+.products li:hover{
+  border-color: #003566;
+}
+.products li:hover h2{
+  color: #d19500;
+  font-size: 24px;
+}
+.products h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #003566;
+}
+.product-description {
+  font-size: 18px;
+  color: #003566;
+}
+.product-price {
+  font-size: 20px;
+  color: #003566;
+  margin: 10px 0 0;
+}
