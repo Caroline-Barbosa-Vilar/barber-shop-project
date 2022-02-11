@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&display=swap');
+
+main {
+  width: 940px;
+  margin: 0 auto;
+}
+form {
+  margin: 40px 0;
+}
+form label, form legend {
+  display: block;
+  font-size: 18px;
+  margin: 0 0 10px;
+  font-family: 'Cinzel', serif;
+  color: #003566;
+  font-size: 15px;
+}
+.title, .checkbox {
+  color: #003566;
+  font-weight: 700;
+  font-size: 18px;
+}
+.input-default, textarea {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
+.checkbox {
+  margin: 20px 0;
+}
+.send {
+  width: 12%;
+  padding: 12px 0;
+  background: #003566;
+  color: #d19500;
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 18px;
+  border-radius: 10px 20px 10px 20px;
+  transition: 0.2s all;
+  cursor: pointer;
+}
+.send:hover {
+  background:#d19500;
+  color: #fcf8ed;
+  transform: scale(1.1);
+}
+.table {
+  margin: 20px 0 40px;
+  font-family: 'Cinzel', serif;
+  font-size: 30px;
+}
+thead {
+  background: #d19500;
+  
+  color: #fcf8ed;
+
+}
