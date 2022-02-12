@@ -3,7 +3,7 @@
 .banner-img {
   width: 100%;
 }
-.about, .benefits, .map {
+.about, .map {
   margin: 30px 100px;
 }
 .title {
@@ -30,19 +30,35 @@
   padding: 20px;
   clear: left;
 }
-.benefits ul {
+.benefits .title{
+  margin-bottom: 50px;
+}
+.benefits-content {
+  width: 900px;
+  margin: 0 auto;
+}
+.benefits-list {
   display: inline-block;
   vertical-align: top;
-  width: 20%;
-  margin-right: 15%;
+  width: 40%;
 }
-.benefits ul li {
+.itens {
   font-family: 'Cinzel', serif;
   font-size: 1em;
   color: #003566;
+  line-height: 3.5em;
+}
+.itens:nth-child(2) {
+  font-weight: 700;
+}
+.itens::before {
+  content: "🟆";
+  color: #d19500;
+  margin-right: 0.4em;
 }
 .benefits-img {
-  width: 30%;
+  width: 40%;
+  margin-left: 100px;
 }
 .map {
   padding: 3em 0;
@@ -53,3 +69,7 @@
   color: #003566;
   margin: 0 0 0.4em;
 }
+.title > p:last-child {
+  font-weight: 700;
+}
+ /* parte 4 - selecionando qq coisa - calculos com css */

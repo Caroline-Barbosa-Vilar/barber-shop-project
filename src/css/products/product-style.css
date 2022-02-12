@@ -38,3 +38,15 @@
   color: #003566;
   margin: 10px 0 0;
 }
+.title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.6em;
+  font-weight: 700;
+  color: #d19500;
+  text-align: center;
+  margin: 18px 0;
+}
+.video .video-frame {
+  margin: 3em 28em;
+  width: 100%;
+}
