@@ -18,6 +18,7 @@
   width: 10%;
   float: left;
   margin: 0 8px;
+  box-shadow: 3px 3px 3px #000000;
 }
 .about p {
   font-family: 'Cinzel', serif;
@@ -46,7 +47,7 @@
   font-family: 'Cinzel', serif;
   font-size: 1em;
   color: #003566;
-  line-height: 3.5em;
+  line-height: 3.8em;
 }
 .itens:nth-child(2) {
   font-weight: 700;
@@ -59,6 +60,7 @@
 .benefits-img {
   width: 40%;
   margin-left: 100px;
+  box-shadow: 3px 3px 3px #000000;
 }
 .map {
   padding: 3em 0;
