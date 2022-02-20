@@ -3,7 +3,7 @@
 .banner-img {
   width: 100%;
 }
-.about, .map {
+.about {
   margin: 30px 100px;
 }
 .title {
@@ -62,16 +62,19 @@
   margin-left: 100px;
   box-shadow: 3px 3px 3px #000000;
 }
-.map {
+.location {
   padding: 3em 0;
+  margin: 0 100px;
 }
-.map p {
+.address p {
   font-family: 'Cinzel', serif;
   font-size: 1em;
   color: #003566;
-  margin: 0 0 0.4em;
+  margin: 0 4rem 0.5em;
 }
-.title > p:last-child {
-  font-weight: 700;
+.address, .map {
+  display: inline-block;
 }
- /* parte 4 - selecionando qq coisa - calculos com css */
+.map {
+  width: 40%;
+}

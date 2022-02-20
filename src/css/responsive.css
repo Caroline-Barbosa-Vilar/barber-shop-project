@@ -7,5 +7,42 @@
 
 }
 @media (max-width: 425px){
-
+  body {
+    width: 100%;
+  }
+  .header { 
+    width: 100%;
+  }
+  /* .header, .box, .about, .benefits, .location, .footer  {
+    width: 100%;
+  } */
+  .banner-img {
+    width: 100%;
+  }
+  .logo {
+    display: block;
+    text-align: center;
+  }
+  .nav {
+    position: static;
+  }
+  .nav ul li {
+    display: block;
+    text-align: center;
+  }
+  .nav ul li a{
+    padding: 2rem auto;
+  }
+  .tools-img {
+    display: none;
+  }
+  .benefits-img {
+    display: block;
+  }
+  .map {
+    width: 100%;
+  }
+  .footer {
+    width: 100%;
+  }
 }
