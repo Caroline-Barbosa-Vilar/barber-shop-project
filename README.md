@@ -5,26 +5,47 @@ In this classes I learned the basics of HTML5 and CSS3 and their properties, atr
 
 https://bo83dev.github.io/barber-shop-project/
 
-Desktop
+Desktop version
 
 Home page: 
 
-<img src="./src/barber-home-desktop-screen.gif" alt="Barber shop project screen gif">
+<img src="./src/barber-home-desktop-screen.gif" alt="Screen gif of the desktop home page, of the project Barber's shop">
 
 Products page:
 
-<img src="./src/barber-products-desktop-screen.gif" alt="Barber shop project screen gif">
+<img src="./src/barber-products-desktop-screen.gif" alt="Screen gif of the desktop products page, of the project Barber's shop">
 
 Contact page:
 
-<img src="./src/barber-contact-desktop-screen.gif" alt="Barber shop project screen gif">
+<img src="./src/barber-contact-desktop-screen.gif" alt="Screen gif of the desktop contact page, of the project Barber's shop">
 
-Tablet
+Tablet version
 
+Home page: 
+
+<img src="./src/barber-home-tablet-screen.gif" alt="Screen gif of the tablet home page, of the project Barber's shop">
+
+Products page:
+
+<img src="./src/barber-products-tablet-screen.gif" alt="Screen gif of the tablet products page, of the project Barber's shop">
+
+Contact page:
+
+<img src="./src/barber-contact-tablet-screen.gif" alt="Screen gif of the tablet contact page, of the project Barber's shop">
 
 Mobile
 
-<img src="./src/barber-home-mobile-screen.gif" alt="Barber shop project mobile screen gif">
+Home page: 
+
+<img src="./src/barber-home-mobile-screen.gif" alt="Screen gif of the mobile home page, of the project Barber's shop">
+
+Products page:
+
+<img src="./src/barber-products-mobile-screen.gif" alt="Screen gif of the mobile products page, of the project Barber's shop">
+
+Contact page:
+
+<img src="./src/barber-contact-mobile-screen.gif" alt="Screen gif of the mobile contact page, of the project Barber's shop">
 
 ## Learning
 
@@ -41,6 +62,6 @@ I learned about:
 
 #### Technologies
 
-- HTML5
-- CSS3
+- HTML5;
+- CSS3.
 
