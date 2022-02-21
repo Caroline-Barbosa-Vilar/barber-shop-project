@@ -26,20 +26,24 @@
   .nav ul li {
     display: block;
     text-align: center;
-  }
-  .nav ul li a{
-    padding: 2rem auto;
-  }
+    margin-top: 1.3rem;
+  }  
   .tools-img {
     display: none;
   }
   .about {
     margin: 0 30px;
   }
+  .benefits .title {
+    margin: 18px auto;
+  }
   .benefits-content {
     width: 100%;
     text-align: center;
     display: inline-block;
+  }
+  .benefits-list {
+    width: 65%;
   }
   .itens {
     line-height: 2rem;
@@ -47,13 +51,18 @@
   .benefits-img {
     display: block;
     width: 60%;
-    margin: 0 auto;
+    margin: 20px auto;
   }
   .location {
     display: inline;
+    margin: 0;
+  }
+  .location .title {
+    margin: 0 80px 20px;
   }
   .map {
     width: 50%;
+    margin: 25px 105px;
   }
   .footer {
     width: 100%;
