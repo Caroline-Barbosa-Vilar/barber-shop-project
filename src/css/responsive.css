@@ -1,25 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&display=swap');
 
-@media (max-width: 992px){
-  
-}
 @media (max-width: 768px){
-  .header, .box, .banner-img, .footer { 
+  .header { 
     width: 100%;
   }
   .box {
     width: 100%;
     margin: 0 auto;
   }
+  main {
+    width: 100%;
+  }
+  /* .products {
+    width: 100%;
+  }
+  .banner-img {
+    width: 100%;
+  } */
+  form {
+    margin-left: 5rem;
+  }
   .logo {
     margin-left: 2rem;
   }
   .nav {
-    margin-right: 1rem;
+    width: 55%;
   }
   .about {
     margin: 1.3rem 2rem;
   }
+  /* .benefits {
+    width: 100%;
+  } */
   .benefits-content {
     width: 100%;
     text-align: center;
@@ -33,12 +45,30 @@
     line-height: 3rem;
     text-align: justify;
   }
+  .benefits-img {
+    margin-left: 2rem;
+  }
   .location {
     margin: 0 auto;
   }
   .map {
     width: 80%;
     margin: 1rem 4rem;
+  }
+  .products ul li {
+    width: 80%;
+    display: block;
+    margin: 1.5rem auto;
+  }
+  .send {
+    width: 30%;
+  }
+  .footer {
+    width: 100%
+  }
+  .footer .logo{ 
+    width: 50%;
+    margin: 0 auto;
   }
 }
 @media (max-width: 425px){
