@@ -76,6 +76,27 @@
   .video .video-frame {
     width: 80%;
   }
+  main  {
+    width: 100%;
+  }
+  form, .title, .input-default, .checkbox, .send {
+    width: 90%;
+    margin: 1rem 1rem;
+  }
+  fieldset {
+    width: 100%;
+  }
+  fieldset .title {
+    text-align: start;
+    margin: 1.3rem 1rem;
+  }
+  fieldset label, 
+  fieldset #options {
+    margin: 1.2rem 1rem;
+  }
+  .send {
+    width: 30%;
+  }
   .footer {
     width: 100%;
   }
