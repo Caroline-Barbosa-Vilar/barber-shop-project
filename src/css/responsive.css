@@ -4,8 +4,41 @@
   
 }
 @media (max-width: 768px){
-  .header { 
+  .header, .box, .banner-img, .footer { 
     width: 100%;
+  }
+  .box {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .logo {
+    margin-left: 2rem;
+  }
+  .nav {
+    margin-right: 1rem;
+  }
+  .about {
+    margin: 1.3rem 2rem;
+  }
+  .benefits-content {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+  }
+  .benefits-list {
+    display: inline-block;
+  }
+  .itens {
+    line-height: 3rem;
+    text-align: justify;
+  }
+  .location {
+    margin: 0 auto;
+  }
+  .map {
+    width: 80%;
+    margin: 1rem 4rem;
   }
 }
 @media (max-width: 425px){
