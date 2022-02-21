@@ -7,15 +7,12 @@
 
 }
 @media (max-width: 425px){
-  body {
-    width: 100%;
-  }
   .header { 
     width: 100%;
   }
-  /* .header, .box, .about, .benefits, .location, .footer  {
+  .box {
     width: 100%;
-  } */
+  }
   .banner-img {
     width: 100%;
   }
@@ -36,11 +33,27 @@
   .tools-img {
     display: none;
   }
+  .about {
+    margin: 0 30px;
+  }
+  .benefits-content {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+  }
+  .itens {
+    line-height: 2rem;
+  }
   .benefits-img {
     display: block;
+    width: 60%;
+    margin: 0 auto;
+  }
+  .location {
+    display: inline;
   }
   .map {
-    width: 100%;
+    width: 50%;
   }
   .footer {
     width: 100%;
