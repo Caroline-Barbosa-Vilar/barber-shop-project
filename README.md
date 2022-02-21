@@ -24,6 +24,7 @@ Tablet
 
 Mobile
 
+<img src="./src/barber-home-mobile-screen.gif" alt="Barber shop project mobile screen gif">
 
 ## Learning
 
