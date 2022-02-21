@@ -4,16 +4,12 @@
   
 }
 @media (max-width: 768px){
-
-}
-@media (max-width: 425px){
   .header { 
     width: 100%;
   }
-  .box {
-    width: 100%;
-  }
-  .banner-img {
+}
+@media (max-width: 425px){
+  .header, .box, .banner-img { 
     width: 100%;
   }
   .logo {
@@ -58,7 +54,8 @@
     margin: 0;
   }
   .location .title {
-    margin: 0 80px 20px;
+    width: 50%;
+    margin: 1rem auto;
   }
   .map {
     width: 50%;
