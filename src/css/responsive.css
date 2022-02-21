@@ -64,6 +64,18 @@
     width: 50%;
     margin: 25px 105px;
   }
+  .products {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .products ul li {
+    width: 80%;
+    display: block;
+    margin: 1.5rem auto;
+  }
+  .video .video-frame {
+    width: 80%;
+  }
   .footer {
     width: 100%;
   }
