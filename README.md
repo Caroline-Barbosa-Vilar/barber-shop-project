@@ -5,6 +5,24 @@ In this classes I learned the basics of HTML5 and CSS3 and their properties, atr
 
 https://bo83dev.github.io/barber-shop-project/
 
+## Learning
+
+I learned about:
+- The cascade structure and it's importance;
+- Using tags semantically;
+- Responsive layout;
+
+### Features
+
+- [x] Home
+- [x] Products page
+- [x] Contact page
+
+#### Technologies
+
+- HTML5;
+- CSS3.
+
 Desktop version
 
 Home page: 
@@ -46,22 +64,3 @@ Products page:
 Contact page:
 
 <img src="./src/barber-contact-mobile-screen.gif" alt="Screen gif of the mobile contact page, of the project Barber's shop">
-
-## Learning
-
-I learned about:
-- The cascade structure and it's importance;
-- Using tags semantically;
-- Responsive layout;
-
-### Features
-
-- [x] Home
-- [x] Products page
-- [x] Contact page
-
-#### Technologies
-
-- HTML5;
-- CSS3.
-
