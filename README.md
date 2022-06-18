@@ -58,7 +58,7 @@ In this classes I learned the basics of HTML5 and CSS3 and their properties, atr
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/barber-shop-project/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/barber-shop-project/) 
 
  - Mobile
 
@@ -168,7 +168,7 @@ Nas aulas aprendi os componentes básicos de HTML5 e CSS3 e suas propriedades, a
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/barber-shop-project/) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/barber-shop-project/) 
 
  - Mobile
 
@@ -215,4 +215,4 @@ Contact page:
 
 <hr>
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
